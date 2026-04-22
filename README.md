@@ -21,9 +21,8 @@ This project simulates a real-world loan approval system used by banks and finan
 
 
 
-🔹 Prediction Output
-
-📌 Replace these image links with your actual screenshots after uploading them to GitHub.
+# 🔹 Live Demo
+--> https://loan-risk-predictor-dashboard.streamlit.app/
 
 
 # 🧠 How It Works
