@@ -16,6 +16,7 @@ This project simulates a real-world loan approval system used by banks and finan
 
 🖼️ Project Preview
 🔹 Dashboard UI
+
 <img width="1983" height="793" alt="Credit Risk Analysis Dashboard UI" src="https://github.com/user-attachments/assets/8a3fba14-9a18-4a5e-b25c-1e9a9244f24c" />
 
 
