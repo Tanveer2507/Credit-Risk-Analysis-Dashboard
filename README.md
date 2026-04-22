@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💳 Credit Risk Analysis Dashboard
 
 # 📌 Overview
@@ -91,72 +90,3 @@ If you have any questions or suggestions, feel free to connect.
 
 # ⭐ Support
 If you like this project, don’t forget to ⭐ the repository!
-=======
-# Credit Risk Analysis Project
-
-## 📌 Overview
-This project predicts whether a customer is likely to default on a loan using machine learning.
-
-## 🛠️ Tech Stack
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Streamlit
-- SQL (conceptual)
-
-## 🔍 Features
-- Data preprocessing and cleaning
-- Exploratory Data Analysis
-- Machine Learning models (Logistic Regression, Random Forest)
-- Imbalanced data handling (SMOTE)
-- Interactive dashboard
-
-## 📊 Results
-- Achieved strong performance using Random Forest
-- Identified key risk factors such as credit amount and age
-
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
-
----
-
-# 🧠 What Makes This Project STRONG
-
-This is not just ML—you are showing:
-
-- Data Cleaning  
-- Feature Engineering  
-- Model Building  
-- Business Understanding  
-- Dashboard (VERY important 🔥)
-
----
-
-# 💼 Resume Bullet Points (Use This)
-
-- Built a credit risk prediction system using Logistic Regression and Random Forest  
-- Processed and analyzed financial data to identify high-risk customers  
-- Handled imbalanced datasets using SMOTE technique  
-- Developed an interactive Streamlit dashboard for risk prediction  
-- Improved decision-making by identifying key financial risk factors  
-
----
-
-# 🔥 If You Want Next Level (Highly Recommended)
-
-I can upgrade this project with:
-
-- ✅ Real-time API integration  
-- ✅ Advanced feature engineering  
-- ✅ Proper UI (like fintech app)  
-- ✅ SQL database integration  
-- ✅ Deployment (so you can share link)
-
-Just tell me:
-👉 “Make this advanced”  
-
-And I’ll take it to **top 1% level** 🚀
->>>>>>> c48fe35 (Initial commit - Credit Risk Dashboard)
