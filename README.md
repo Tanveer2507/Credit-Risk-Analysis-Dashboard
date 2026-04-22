@@ -17,7 +17,8 @@ This project simulates a real-world loan approval system used by banks and finan
 🖼️ Project Preview
 🔹 Dashboard UI
 
-<img width="1983" height="793" alt="Credit Risk Analysis Dashboard UI" src="https://github.com/user-attachments/assets/8a3fba14-9a18-4a5e-b25c-1e9a9244f24c" />
+<img width="1983" height="793" alt="Credit Risk Analysis Dashboard UI" src="https://github.com/user-attachments/assets/fb00f590-9b67-4403-9395-e7d84e4bc1da" />
+
 
 
 🔹 Prediction Output
@@ -26,7 +27,8 @@ This project simulates a real-world loan approval system used by banks and finan
 
 
 # 🧠 How It Works
-<img width="424" height="1116" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/ef80e0ae-7e42-483e-9311-29aa48b31cff" />
+<img width="424" height="1116" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/5eb70043-3e04-4ff8-802f-299d89e3fbf8" />
+
 
 # 🛠️ Tech Stack
 | Category      | Tools Used                   |
